@@ -1,4 +1,6 @@
- <h2 align="center">Ola, meu nome é Mateus Mori, atualmente sou um estudante de Engenharia de software na unicesumar, estou cursando tambem a formação em tecnologia da escola DNC voltada pro Fullstack web, tenho buscado colocar em pratica meus conhecimentos por meio de projetos e trabalhos da faculdade, buscando sempre evoluir.</h2>
+ <h2 align="center">Ola, meu nome é Mateus Mori, atualmente sou um estudante de Engenharia de software <br/>na unicesumar, 
+  estou cursando tambem a formação em tecnologia da escola DNC voltada pro Fullstack web, tenho buscado colocar em 
+  pratica meus conhecimentos por meio de <br/> projetos  e trabalhos da faculdade, buscando sempre evoluir.</h2>
 
 ###
 
