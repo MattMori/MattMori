@@ -51,8 +51,6 @@
 
  <img src="https://raw.githubusercontent.com/MattMori/MattMori/output/snake.svg" alt="Snake animation" />
  
-  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
-
 ###
 
 <div align="center">
