@@ -15,6 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
@@ -23,8 +24,8 @@ jobs:
 
       - name: Pushing dist directory to output branch
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          git config user.name "MattMori"
+          git config user.email "mateus5310@live.com"
           git add .
           git commit -m "Update GitHub Pages"
           git push --force https://github.com/MattMori/MattMori output
