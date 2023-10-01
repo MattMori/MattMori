@@ -1,34 +1,38 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
+  schedule: 
+    - cron: "0 */12 * * *"
   workflow_dispatch:
-
   push:
     branches:
-    - master
+      - master
 
 jobs:
   generate:
     runs-on: ubuntu-latest
 
     steps:
-    
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg
+      - name: Checkout código
+        uses: actions/checkout@v2
 
-      - name: Pushing dist directory to output branch
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 16
+
+      - name: Instalar dependências
+        run: npm install
+
+      - name: Gerar snake.svg
+        run: npm run generate-svg
+
+      - name: Configurar Git e fazer commit
         run: |
-          git config user.name "MattMori"
-          git config user.email "mateus5310@live.com"
-          git add .
-          git commit -m "Update GitHub Pages"
-          git push --force https://github.com/MattMori/MattMori output
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add dist/snake.svg
+          git commit -m "Atualizar animação da cobra"
+          git push origin master:output
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
