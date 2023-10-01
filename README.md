@@ -1,10 +1,11 @@
-<h2 align="center">Ola, meu nome é Mateus Mori, atualmente sou um estudante de Engenharia de software na unicesumar, estou cursando tambem a formação em tecnologia da escola DNC voltada pro Fullstack web, tenho buscado colocar em pratica meus conhecimentos por meio de projetos e trabalhos da faculdade, buscando sempre evoluir.</h2>
+ <h2 align="center">Ola, meu nome é Mateus Mori, atualmente sou um estudante de Engenharia de software na unicesumar, estou cursando tambem a formação em tecnologia da escola DNC voltada pro Fullstack web, tenho buscado colocar em pratica meus conhecimentos por meio de projetos e trabalhos da faculdade, buscando sempre evoluir.</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MattMori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattMori&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MattMori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattMori&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MattMori&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -49,20 +50,6 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/MattMori/MattMori/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="700" src="https://media3.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif?cid=ecf05e47ch6wtt4aao5ax817om8azpv9ynugpioay0h5puvc&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/MattMori/count.svg?"  />
-</div>
-
-###
 
 ###
 
