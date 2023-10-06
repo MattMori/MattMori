@@ -1,7 +1,6 @@
- <h2 align="center">Ola, meu nome é Mateus Mori, atualmente sou um estudante de Engenharia de software <br/>na unicesumar, 
-  estou cursando tambem a formação em tecnologia da escola DNC voltada pro Fullstack web, tenho buscado colocar em 
-  pratica meus conhecimentos por meio de <br/> projetos  e trabalhos da faculdade, buscando sempre evoluir.</h2>
-
+# 💫 Sobre Mim:
+  Olá, meu nome é Mateus Mori e atualmente sou estudante de Engenharia de Software na Unicesumar.
+  Além disso, estou cursando a formação em tecnologia da Escola DNC, focada em Fullstack web. Tenho buscado colocar em prática meus conhecimentos por meio de projetos e trabalhos da faculdade, sempre buscando evoluir.
 ###
 
 <div align="center">
@@ -31,6 +30,8 @@
 </div>
 
 ###
+<div>
+ ## 🏆 Troféus Github
 
 <div align="center">
   <a href="https://www.instagram.com/mori.mkv/" target="_blank">
