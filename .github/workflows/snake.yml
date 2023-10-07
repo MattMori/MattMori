@@ -19,8 +19,8 @@ jobs:
 
       - name: Set GitHub repository owner
         id: set_owner
-        run: echo "::set-output name=owner::${{ github.repository_owner }}"
-      
+        run: echo "::set-output name=owner::${{ github.repository_owner || 'default-owner' }}"
+
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
