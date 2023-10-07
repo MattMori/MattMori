@@ -12,19 +12,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
-    permissions:
-      contents: write
-
     steps:
-
-      - name: Set GitHub repository owner
-        id: set_owner
-        run: echo "::set-output name=owner::${{ github.repository_owner || 'default-owner' }}"
-
+      - name: Debug GitHub repository owner
+        run: echo "GitHub repository owner: ${{ github.repository_owner }}"
+        
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v2
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: ${{ github.actor }}
           outputs: dist/snake.svg
                    
       - name: push snake.svg to the output branch
@@ -33,4 +28,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
