@@ -50,12 +50,6 @@
 
 ###
 
-<br clear="both">
-
- <img src="https://raw.githubusercontent.com/MattMori/MattMori/output/snake.svg" alt="Snake animation" />
- 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/MattMori/count.svg?"  />
 </div>
