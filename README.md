@@ -31,7 +31,6 @@
 
 ###
 <div>
- ## 🏆 Troféus Github
 
 <div align="center">
   <a href="https://www.instagram.com/mori.mkv/" target="_blank">
