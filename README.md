@@ -1,6 +1,5 @@
 # 💫 Sobre Mim:
-  Olá, meu nome é Mateus Mori e atualmente sou estudante de Engenharia de Software na Unicesumar.
-  Além disso, estou cursando a formação em tecnologia da Escola DNC, focada em Fullstack web. Tenho buscado colocar em prática meus conhecimentos por meio de projetos e trabalhos da faculdade, sempre buscando evoluir.
+ Olá! Eu sou Mateus Mori, estudante de Engenharia de Software na Unicesumar e desenvolvedor com 2 anos de experiência prática na criação de sistemas Full Stack. Já desenvolvi projetos utilizando tecnologias como React (Next.js e Vite), Node.js (ExpressJS, Mongoose e Swagger) e MongoDB. Tenho habilidades em comunicação, organização e trabalho em equipe. Sou autodidata e estou sempre buscando novos desafios para aprimorar minhas habilidades.
 ###
 
 <div align="center">
