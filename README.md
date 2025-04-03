@@ -1,7 +1,7 @@
 
 # 💻 Sobre Mim:  
 
-Olá! Me chamo MAteus e sou um desenvolvedor full stack, com experiência prática na criação de aplicações web completas.  
+Olá! Me chamo Mateus e sou um desenvolvedor full stack, com experiência prática na criação de aplicações web completas.  
 Atualmente, estou no 7º semestre de Engenharia de Software na Unicesumar e possuo uma formação em desenvolvimento full stack pela Escola DNC.
 Minha stack principal inclui JavaScript, TypeScript, Next.js, Vite, Node.js, ExpressJS, Mongoose e Swagger, além de banco de dados MongoDB e MySQL.  
 
