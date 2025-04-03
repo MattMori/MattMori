@@ -10,7 +10,7 @@ Sou autodidata e estou sempre buscando novos desafios para aprimorar minhas habi
 
 
 <p align="center">
-<img align="right" src="https://i.imgur.com/dEKoLyQ.png" width="450">
+<img align="right" src="https://i.imgur.com/dEKoLyQ.png" width="400">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattMori&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=MattMori&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=MattMori&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=j M[ Y]" height="150" alt="streak graph"  />
